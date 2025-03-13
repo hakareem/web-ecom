@@ -53,4 +53,3 @@ export default tseslint.config({
 })
 ```
 # web-ecom
-# web-ecom
